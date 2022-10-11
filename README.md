@@ -15,6 +15,7 @@ Textbook: https://geo-smart.github.io/curriculum-book/about_this_book/about_this
 ## How to Clone
 To clone this repository, use 
 
-"git clone "https://github.com/UW-ESS-DS/MLGeo2022_joycecai.git""
+`git clone "https://github.com/UW-ESS-DS/MLGeo2022_joycecai.git"`
 
-## 
+## License
+MIT License are applied to this repository.
