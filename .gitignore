@@ -1,4 +1,6 @@
 # data file
 **/glathida/
 *.tif
-*.csv
+*.cs
+*.nc
+
